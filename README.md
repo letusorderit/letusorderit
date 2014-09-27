@@ -68,5 +68,12 @@ Kooperationsplan
 
 * wir machen das als projekt für den python-workshop; mit Neulingen oder -gierigen als Zielgruppe
 * soll zusammen gemacht werden. also eigentlich keine arbeiten ausserhalb des workshops
-* zusatzprojekte: twisted/irc und hipchat
-* evt. auch noch ein zusatzprojekt für frontend (emberjs oder angularjs) oder android / ios / winphone / firefox os
+
+weitere Projekte
+----------------
+
+* irc-Anbindung
+* HipChat-Anbindung
+* EmberJS frontend
+* Android / iOS / WinPhone / FirefoxOS
+* Twitter-Anbindung
