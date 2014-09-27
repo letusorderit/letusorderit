@@ -25,7 +25,7 @@ Technischer Foo
 * emailadresse reicht vielleicht
   
 
-Wir nehemn Django weil:
+Wir nehmen Django weil:
 -----------------------
 
 * allauth
