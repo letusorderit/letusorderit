@@ -1,7 +1,7 @@
 letusorderit
 ============
 
-Gemeinsames bestellen von Dingen und Essen mit dieser modernen Internettechnologie
+Gemeinsam bestellen von Dingen und Essen mit dieser modernen Internettechnologie
 ==================================================================================
 
 
