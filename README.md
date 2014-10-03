@@ -77,5 +77,7 @@ weitere Projekte
 * irc-Anbindung
 * HipChat-Anbindung
 * EmberJS frontend
+* AngularJS frontend
 * Android / iOS / WinPhone / FirefoxOS
 * Twitter-Anbindung
+* text dialog client: http://sourceforge.net/projects/pythondialog/
