@@ -7,7 +7,6 @@ class OrderAdmin(admin.ModelAdmin):
     search_fields = ('master', 'description')
 
     def get_item_count(self, obj):
-        assert False
         return obj.orderitem_set.count()
     get_item_count.short_description = 'Item count'
 
