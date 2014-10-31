@@ -1,7 +1,7 @@
 letusorderit
 ============
 
-Gemeinsames bestellen von Dingen und Essen mit dieser modernen Internettechnologie
+Gemeinsam bestellen von Dingen und Essen mit dieser modernen Internettechnologie
 ==================================================================================
 
 
@@ -23,6 +23,8 @@ Technischer Foo
 * auth-tokens und nutzer
 * emailadresse reicht vielleicht
 * Als zweiter Schritt API-Konsumenten (IRC, Hipchat, ... siehe unten)
+* API-Anbindung an venmo.com
+
 
 
 Wir nehmen Django weil:
@@ -77,5 +79,8 @@ weitere Projekte
 * irc-Anbindung
 * HipChat-Anbindung
 * EmberJS frontend
+* AngularJS frontend
 * Android / iOS / WinPhone / FirefoxOS
 * Twitter-Anbindung
+* text dialog client: http://sourceforge.net/projects/pythondialog/
+
