@@ -7,11 +7,11 @@ urlpatterns = patterns('',
     # url(r'^$', 'letusorderit.views.home', name='home'),
     # url(r'^blog/', include('blog.urls')),
 
-    url(
-        regex=r'^$',
-        view=RedirectView.as_view(url='/api/v1'),
-        name="redirect to api"
-    ),
+    # url(
+    #     regex=r'^$',
+    #     view=RedirectView.as_view(url='/api/v1', permanent=False),
+    #     name="redirect_to_api"
+    # ),
 
     url(r'^api/v1/', include('ordermgmt.urls')),
 

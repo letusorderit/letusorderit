@@ -2,4 +2,5 @@ Django==1.7.1
 django-model-utils==2.2
 django-extensions==1.4.5
 djangorestframework==3.0.0
+ipython
 bpython==0.13.1
