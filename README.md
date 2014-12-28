@@ -19,3 +19,12 @@ Domain: http://letusorder.it/
 
 ```pip install -r requirements.txt```
 
+
+## Mit Docker und fig ausführen (development umgebung)
+
+### Setup
+
+* Installiere docker und fig ([Instructions](http://www.fig.sh/install.html))
+* `fig up -d`
+* warten
+* falls noch keine datenbank existiert: `fig run web python3 manage.py migrate`
