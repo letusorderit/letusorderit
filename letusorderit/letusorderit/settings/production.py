@@ -12,4 +12,3 @@ DATABASES = {
 
 STATIC_ROOT = '/home/uid1000/letusorderit/static/'
 USE_X_FORWARDED_HOST = True
-DEBUG = True
