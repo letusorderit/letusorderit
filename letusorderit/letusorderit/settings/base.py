@@ -90,4 +90,11 @@ STATIC_URL = '/static/'
 
 REST_FRAMEWORK = {
     'PAGINATE_BY': 10,                 # Default to 10
+
+    'DEFAULT_THROTTLE_CLASSES': (
+        'rest_framework.throttling.AnonRateThrottle',
+    ),
+    'DEFAULT_THROTTLE_RATES': {
+        'anon': '1/sec',
+    }
 }
