@@ -13,7 +13,7 @@ urlpatterns = patterns('',
     #     name="redirect_to_api"
     # ),
 
-    url(r'^api/v1/', include('ordermgmt.urls')),
+    url(r'^v1/', include('ordermgmt.urls')),
 
     url(r'^admin/', include(admin.site.urls)),
 
